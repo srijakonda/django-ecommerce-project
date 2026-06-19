@@ -58,4 +58,4 @@ SmartMart-Online Shopping and Management System developed using Django, HTML, CS
 - Email Notifications
 
 ## Author
-Srinath Konda
+Srija Konda
